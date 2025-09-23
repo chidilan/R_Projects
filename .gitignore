@@ -1,0 +1,6 @@
+.Rhistory
+.RData
+*.Rproj
+.Rproj.user
+config.json
+*.env
